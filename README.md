@@ -1,4 +1,4 @@
-# 👨🏾‍💻 Gabriel Prado Gomes
+# 👨🏾‍💻 Gabriel Gomes
 
 **`Estudante de Desenvolvimento Web`**
 
