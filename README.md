@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👨🏾‍💻 Gabriel Prado Gomes
 
-<!--
-**gomeszyk/gomeszyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Desenvolvedor Web`**
 
-Here are some ideas to get you started:
+Me chamo Gabriel Prado, tenho 18 anos e sou de São Paulo. Atualmente faço Análise e Desenvolvimento de Sistemas, pela Universidade Paulista, e curso Desenvolvimento Web pelo Instituto PROA. Tenho o desejo de trabalhar como FullStack, atuando tanto no backend quanto no frontend. Gosto de me aventurar e aprender coisas novas recorrentemente.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 👨🏾‍💻 Linguagens e Tecnologias
+
+
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" height="40" alt="Java" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL" />
+</p>
+
+
+          
