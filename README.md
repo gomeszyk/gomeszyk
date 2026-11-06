@@ -2,7 +2,7 @@
 
 **`Estudante de Desenvolvimento Web`**
 
-Me chamo Gabriel Prado, tenho 18 anos e sou de São Paulo. Atualmente faço Análise e Desenvolvimento de Sistemas, pela Universidade Paulista, e curso Desenvolvimento Web pelo Instituto PROA. Tenho o desejo de trabalhar como FullStack, atuando tanto no backend quanto no frontend. Gosto de me aventurar e aprender coisas novas recorrentemente.
+Me chamo Gabriel Prado, tenho 18 anos e sou de São Paulo. Atualmente faço Análise e Desenvolvimento de Sistemas, pela Universidade Paulista, e curso Desenvolvimento Web pelo Instituto PROA. Tenho o desejo de trabalhar como FullStack, atuando tanto no backend quanto no frontend. Gosto de me desafiar e aprender novas tecnologias.
 
 ---
 
