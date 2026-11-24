@@ -6,6 +6,7 @@
 **Aprendendo, construindo e evoluindo projeto por projeto.**
 
 [![GitHub](https://img.shields.io/badge/GitHub-gomeszyk-181717?logo=github&logoColor=white)](https://github.com/gomeszyk)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-prado-gomess/)
 
 </div>
 
