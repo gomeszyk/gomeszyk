@@ -1,9 +1,9 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,50:3F5BFF,100:00C9A7&height=200&section=header&text=Gabriel%20Prado%20Gomes&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Desenvolvedor%20Full%20Stack%20em%20forma%C3%A7%C3%A3o&descSize=16&descAlignY=58" alt="Gabriel Prado Gomes — Desenvolvedor Full Stack em formação" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:081c45,50:1459b8,100:00bcd4&height=200&section=header&text=Gabriel%20Prado%20Gomes&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Desenvolvedor%20Full%20Stack%20em%20forma%C3%A7%C3%A3o&descSize=16&descAlignY=58" alt="Gabriel Prado Gomes — Desenvolvedor Full Stack em formação" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=00C9A7&center=true&vCenter=true&width=600&lines=Desenvolvedor%20Full%20Stack%20em%20forma%C3%A7%C3%A3o.;Estudante%20de%20ADS%20%7C%20UNIP%20e%20Instituto%20PROA.;Construindo%20solu%C3%A7%C3%B5es%20com%20tecnologia.;Aprendendo%2C%20criando%20e%20evoluindo%20a%20cada%20projeto." alt="Apresentação animada" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=00BCD4&center=true&vCenter=true&width=850&lines=Desenvolvedor%20Full%20Stack%20em%20forma%C3%A7%C3%A3o.;Estudante%20de%20ADS%20%7C%20UNIP%20e%20Instituto%20PROA.;Construindo%20solu%C3%A7%C3%B5es%20com%20tecnologia.;Aprendendo%2C%20criando%20e%20evoluindo%20a%20cada%20projeto." alt="Apresentação animada" />
 </div>
 
 <div align="center">
